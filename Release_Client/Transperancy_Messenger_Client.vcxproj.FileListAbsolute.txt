@@ -1,0 +1,5 @@
+C:\Users\ronen\source\repos\Transperancy_Messenger_Client\x64\Release\Transperancy_Messenger_Client.vcxproj.CopyComplete
+C:\Users\ronen\source\repos\Transperancy_Messenger_Client\x64\Release\Transperancy_Messenger_Client.exe
+C:\Users\ronen\source\repos\Transperancy_Messenger_Client\x64\Release\boost_filesystem-vc143-mt-x64-1_82.dll
+C:\Users\ronen\source\repos\Transperancy_Messenger_Client\x64\Release\libcrypto-3-x64.dll
+C:\Users\ronen\source\repos\Transperancy_Messenger_Client\x64\Release\libssl-3-x64.dll

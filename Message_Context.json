@@ -1,0 +1,24 @@
+{
+    "groups": [
+        {
+            "groupid": "17",
+            "key": "AAA",
+            "lastmesid": 2,
+            "messages": [
+                "74: AAA",
+                "74: DAD"
+            ]
+        },
+        {
+            "groupid": "18",
+            "key": "BBB",
+            "lastmesid": 1,
+            "messages": [
+                "74: AABBC"
+            ]
+        }
+    ],
+    "pubkeys": [],
+    "token": 216048088,
+    "uid": 74
+}
